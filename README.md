@@ -2,9 +2,7 @@
 Instant messaging between users connected to the same server.
 
 ## Goals
-Communicate with different users via chat.
-From a simple graphical interface.
-Server hosted by a user.
+Communicate with different users via chat, from a simple graphical interface, using a server hosted by a user.
 
 ## Technologies
 - Websockets
